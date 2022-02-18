@@ -1,4 +1,4 @@
-# Almacency
+# Almacetto
 Tienda online administrada via Google Sheets.
 
 ## Como la uso?
