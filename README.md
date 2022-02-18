@@ -7,3 +7,5 @@ Tienda online administrada via Google Sheets.
 3. Asegurate que en vez de `Pagina web` diga `Valores separados por comas (.csv)` y copia el enlace.
 4. Pega el enlace en [este archivo](./app/constants.ts) y completa los datos de tu tienda.
 5. Publica el sitio en [algun hosting que soporte NextJS](https://vercel.com)
+
+Se integró [IFTTT](https://ifttt.com/) para que escuche los cambios del excel y actualicé la página gracias a ISR (incremental static regeneration) On-Demand que viene con NextJS 12.1. 
