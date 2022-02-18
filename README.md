@@ -1,7 +1,3 @@
-[![codecov](https://codecov.io/gh/goncy/store/branch/main/graph/badge.svg?token=XiTcCI2c18)](https://codecov.io/gh/goncy/store)
-
----
-
 # Almacency
 Tienda online administrada via Google Sheets.
 
@@ -11,9 +7,3 @@ Tienda online administrada via Google Sheets.
 3. Asegurate que en vez de `Pagina web` diga `Valores separados por comas (.csv)` y copia el enlace.
 4. Pega el enlace en [este archivo](./app/constants.ts) y completa los datos de tu tienda.
 5. Publica el sitio en [algun hosting que soporte NextJS](https://vercel.com)
-
-## Me gustaria ayudar
-Si pensas que podes agregar una funcionalidad que le sirva al resto, mandame un PR. Sino, podes mandarme un [cafecito](https://cafecito.app/goncy)
-
-## ¿Qué puedo hacer con este repositorio?
-Podés leer la licencia [acá](./LICENSE.md). En resumen, podés usar este repositorio para lo que quieras mientras no lucres con eso y menciones la fuente original cuando lo uses 🥰.

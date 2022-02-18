@@ -24,7 +24,7 @@ const App: React.FC<AppProps> = ({Component, pageProps}) => {
         <title>Mi tienda online - Almacency</title>
         <meta content="initial-scale=1.0, width=device-width" name="viewport" />
         {/* Inicio de meta tags de licencia - Cambiar el contenido de los mismos viola el contenido de los terminos de licencia */}
-        <meta content="goncy" name="author" />
+        <meta content="juanmacrossetto" name="author" />
         <meta content="Gonzalo Pozzo" name="copyright" />
         {/* Fin de meta tags de licencia */}
       </Head>
@@ -97,8 +97,8 @@ const App: React.FC<AppProps> = ({Component, pageProps}) => {
           {/* Inicio de copyright - Cambiar el contenido de los mismos viola el contenido de los terminos de licencia */}
           <Text textAlign="center">
             © Copyright {new Date().getFullYear()}. Hecho con ♥ para la comunidad, por{" "}
-            <Link isExternal href="https://gonzalopozzo.com">
-              goncy
+            <Link isExternal href="https://juanmacrossetto.vercel.app/">
+              Juanma
             </Link>
             .
           </Text>

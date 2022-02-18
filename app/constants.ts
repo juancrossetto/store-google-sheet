@@ -4,16 +4,16 @@ export const INFORMATION = {
   title: "URBN Catering",
   description: "Galardonada pizza estilo New Haven en Palermo SOHO.",
   phone: `5491141414141`,
-  sheet: `https://docs.google.com/spreadsheets/d/e/2PACX-1vQG1pOSbGxaJYzlOWF2t7KFyP5wtWo_EDS0crTllQtALvDDZBq7OwxvTDJwM4dmasW7wmNh6KFB443j/pub?output=csv`,
+  sheet: `https://docs.google.com/spreadsheets/d/e/2PACX-1vSRMwJrRBTwEsuJL6wsYmaP25K-1GcPoS-zi_4acQa-ZfzeHgipcsiLUn3TcDQAhkTK8ozNjBXHZcd1/pub?output=csv`,
   color: `teal`,
   social: [
     {
       name: "instagram",
-      url: `https://instagram.com/goncy.js`,
+      url: `https://instagram.com/juanmacrossetto.js`,
     },
     {
       name: "whatsapp",
-      url: `https://wa.me/5491141414141`,
+      url: `https://wa.me/5491568201403`,
     },
   ],
 };
